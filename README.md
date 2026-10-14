@@ -22,7 +22,7 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 | Lab | Topic | Status |
 |---|---|---|
 | Lab 01 | Collaboration Support Lab Setup | Completed |
-| Lab 02 | Microsoft Teams Access and Basic Support | Not Started |
+| Lab 02 | Microsoft Teams Access and Basic Support | Completed |
 | Lab 03 | OneDrive File Sharing and Permissions | Not Started |
 | Lab 04 | SharePoint Site and Document Library Support | Not Started |
 | Lab 05 | Collaboration Issues Knowledge Base | Not Started |
@@ -31,6 +31,7 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 ## Lab Notes
 
 - [Lab 01 - Collaboration Support Lab Setup](notes/lab-01-collaboration-support-lab-setup.md)
+- [Lab 02 - Microsoft Teams Access and Basic Support](notes/lab-02-microsoft-teams-access-and-basic-support.md)
 
 ## Sample Tickets
 
@@ -55,6 +56,21 @@ Knowledge base notes will be added during the project.
 ![OneDrive Web Access](screenshots/05-onedrive-web-access.png)
 
 ![SharePoint Start Page](screenshots/06-sharepoint-start-page.png)
+
+### Lab 02 - Microsoft Teams Access and Basic Support
+
+![Teams General Channel](screenshots/07-teams-general-channel.png)
+
+![Teams Members Review](screenshots/08-teams-members-review.png)
+
+![Teams Channel Settings Review](screenshots/09-teams-channel-settings-review.png)
+
+![Support Requests Channel Created](screenshots/10-teams-support-requests-channel-created.png)
+
+![Support Channel Test Message](screenshots/11-teams-support-channel-test-message.png)
+
+![Support Channel Details](screenshots/12-teams-support-channel-details.png)
+
 ## Workflow Documentation
 
 Workflow documentation will be added during the project.
