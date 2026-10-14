@@ -23,7 +23,7 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 |---|---|---|
 | Lab 01 | Collaboration Support Lab Setup | Completed |
 | Lab 02 | Microsoft Teams Access and Basic Support | Completed |
-| Lab 03 | OneDrive File Sharing and Permissions | Not Started |
+| Lab 03 | OneDrive File Sharing and Permissions | Completed |
 | Lab 04 | SharePoint Site and Document Library Support | Not Started |
 | Lab 05 | Collaboration Issues Knowledge Base | Not Started |
 | Lab 06 | Support Tickets and Final Workflow | Not Started |
@@ -32,6 +32,7 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 
 - [Lab 01 - Collaboration Support Lab Setup](notes/lab-01-collaboration-support-lab-setup.md)
 - [Lab 02 - Microsoft Teams Access and Basic Support](notes/lab-02-microsoft-teams-access-and-basic-support.md)
+- [Lab 03 - OneDrive File Sharing and Permissions](notes/lab-03-onedrive-file-sharing-and-permissions.md)
 
 ## Sample Tickets
 
@@ -70,6 +71,20 @@ Knowledge base notes will be added during the project.
 ![Support Channel Test Message](screenshots/11-teams-support-channel-test-message.png)
 
 ![Support Channel Details](screenshots/12-teams-support-channel-details.png)
+
+### Lab 03 - OneDrive File Sharing and Permissions
+
+![OneDrive Home Page](screenshots/13-onedrive-home-page.png)
+
+![OneDrive Test Folder Created](screenshots/14-onedrive-test-folder-created.png)
+
+![OneDrive Test Document Created](screenshots/15-onedrive-test-document-created.png)
+
+![OneDrive File Sharing Settings](screenshots/16-onedrive-file-sharing-settings.png)
+
+![OneDrive Manage Access Review](screenshots/17-onedrive-manage-access-review.png)
+
+![OneDrive Sharing Access Removed](screenshots/18-onedrive-sharing-access-removed.png)
 
 ## Workflow Documentation
 
