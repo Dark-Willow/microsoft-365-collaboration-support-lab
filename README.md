@@ -21,7 +21,7 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 
 | Lab | Topic | Status |
 |---|---|---|
-| Lab 01 | Collaboration Support Lab Setup | Not Started |
+| Lab 01 | Collaboration Support Lab Setup | Completed |
 | Lab 02 | Microsoft Teams Access and Basic Support | Not Started |
 | Lab 03 | OneDrive File Sharing and Permissions | Not Started |
 | Lab 04 | SharePoint Site and Document Library Support | Not Started |
@@ -30,7 +30,7 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 
 ## Lab Notes
 
-Lab notes will be added during the project.
+- [Lab 01 - Collaboration Support Lab Setup](notes/lab-01-collaboration-support-lab-setup.md)
 
 ## Sample Tickets
 
@@ -42,8 +42,19 @@ Knowledge base notes will be added during the project.
 
 ## Screenshots
 
-Screenshots will be added during the project.
+### Lab 01 - Collaboration Support Lab Setup
 
+![Microsoft 365 Admin Dashboard](screenshots/01-microsoft-365-admin-dashboard.png)
+
+![Active Users for Collaboration Lab](screenshots/02-active-users-for-collaboration-lab.png)
+
+![Microsoft 365 App Launcher](screenshots/03-microsoft-365-app-launcher.png)
+
+![Teams Web Access](screenshots/04-teams-web-access.png)
+
+![OneDrive Web Access](screenshots/05-onedrive-web-access.png)
+
+![SharePoint Start Page](screenshots/06-sharepoint-start-page.png)
 ## Workflow Documentation
 
 Workflow documentation will be added during the project.
