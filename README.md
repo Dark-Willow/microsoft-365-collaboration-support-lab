@@ -21,10 +21,10 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 
 | Lab | Topic | Status |
 |---|---|---|
-| Lab 01 | Collaboration Support Lab Setup | Completed |
-| Lab 02 | Microsoft Teams Access and Basic Support | Completed |
-| Lab 03 | OneDrive File Sharing and Permissions | Completed |
-| Lab 04 | SharePoint Site and Document Library Support | Not Started |
+| Lab 01 | Collaboration Support Lab Setup | Complete |
+| Lab 02 | Microsoft Teams Access and Basic Support | Complete |
+| Lab 03 | OneDrive File Sharing and Permissions | Complete |
+| Lab 04 | SharePoint Site and Document Library Support | Complete |
 | Lab 05 | Collaboration Issues Knowledge Base | Not Started |
 | Lab 06 | Support Tickets and Final Workflow | Not Started |
 
@@ -33,6 +33,7 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 - [Lab 01 - Collaboration Support Lab Setup](notes/lab-01-collaboration-support-lab-setup.md)
 - [Lab 02 - Microsoft Teams Access and Basic Support](notes/lab-02-microsoft-teams-access-and-basic-support.md)
 - [Lab 03 - OneDrive File Sharing and Permissions](notes/lab-03-onedrive-file-sharing-and-permissions.md)
+- [Lab 04 - SharePoint Site and Document Library Support](notes/lab-04-sharepoint-site-and-document-library-support.md)
 
 ## Sample Tickets
 
@@ -85,6 +86,22 @@ Knowledge base notes will be added during the project.
 ![OneDrive Manage Access Review](screenshots/17-onedrive-manage-access-review.png)
 
 ![OneDrive Sharing Access Removed](screenshots/18-onedrive-sharing-access-removed.png)
+
+### Lab 04 - SharePoint Site and Document Library Support
+
+![SharePoint Site Home](screenshots/19-sharepoint-site-home.png)
+
+![SharePoint Site Permissions](screenshots/20-sharepoint-site-permissions.png)
+
+![SharePoint Document Library](screenshots/21-sharepoint-document-library.png)
+
+![SharePoint Test Folder Created](screenshots/22-sharepoint-test-folder-created.png)
+
+![SharePoint Test Document Created](screenshots/23-sharepoint-test-document-created.png)
+
+![SharePoint File Sharing Settings](screenshots/24-sharepoint-file-sharing-settings.png)
+
+![SharePoint Manage Access Review](screenshots/25-sharepoint-manage-access-review.png)
 
 ## Workflow Documentation
 
