@@ -25,8 +25,8 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 | Lab 02 | Microsoft Teams Access and Basic Support | Complete |
 | Lab 03 | OneDrive File Sharing and Permissions | Complete |
 | Lab 04 | SharePoint Site and Document Library Support | Complete |
-| Lab 05 | Collaboration Issues Knowledge Base | Not Started |
-| Lab 06 | Support Tickets and Final Workflow | Not Started |
+| Lab 05 | Collaboration Issues Knowledge Base | Complete |
+| Lab 06 | Support Tickets and Final Workflow | Complete |
 
 ## Lab Notes
 
@@ -34,14 +34,24 @@ This lab is designed to show practical understanding of how Microsoft 365 collab
 - [Lab 02 - Microsoft Teams Access and Basic Support](notes/lab-02-microsoft-teams-access-and-basic-support.md)
 - [Lab 03 - OneDrive File Sharing and Permissions](notes/lab-03-onedrive-file-sharing-and-permissions.md)
 - [Lab 04 - SharePoint Site and Document Library Support](notes/lab-04-sharepoint-site-and-document-library-support.md)
+- [Lab 05 - Collaboration Issues Knowledge Base](notes/lab-05-collaboration-issues-knowledge-base.md)
+- [Lab 06 - Support Tickets and Final Workflow](notes/lab-06-support-tickets-and-final-workflow.md)
 
 ## Sample Tickets
 
-Sample Microsoft 365 collaboration support tickets will be added during the project.
+- [Ticket 01 - Teams Sign-in Issue](sample-tickets/ticket-01-teams-sign-in-issue.md)
+- [Ticket 02 - Teams Channel Access](sample-tickets/ticket-02-teams-channel-access.md)
+- [Ticket 03 - OneDrive File Sharing](sample-tickets/ticket-03-onedrive-file-sharing.md)
+- [Ticket 04 - SharePoint Document Access](sample-tickets/ticket-04-sharepoint-document-access.md)
+- [Ticket 05 - OneDrive Sync Issue](sample-tickets/ticket-05-onedrive-sync-issue.md)
 
 ## Knowledge Base
 
-Knowledge base notes will be added during the project.
+- [KB 01 - Teams Access Issue](knowledge-base/kb-01-teams-access-issue.md)
+- [KB 02 - Teams Channel Not Visible](knowledge-base/kb-02-teams-channel-not-visible.md)
+- [KB 03 - OneDrive File Sharing Issue](knowledge-base/kb-03-onedrive-file-sharing-issue.md)
+- [KB 04 - SharePoint Access Denied](knowledge-base/kb-04-sharepoint-access-denied.md)
+- [KB 05 - OneDrive Sync Issue](knowledge-base/kb-05-onedrive-sync-issue.md)
 
 ## Screenshots
 
@@ -105,7 +115,7 @@ Knowledge base notes will be added during the project.
 
 ## Workflow Documentation
 
-Workflow documentation will be added during the project.
+- [Microsoft 365 Collaboration Support Workflow](workflow/microsoft-365-collaboration-support-workflow.md)
 
 ## Skills Practised
 
@@ -122,4 +132,10 @@ Workflow documentation will be added during the project.
 
 ## What I Learned
 
-This section will be updated as the lab progresses.
+In this project, I practised supporting Microsoft 365 collaboration applications, including Teams, OneDrive, and SharePoint.
+
+I reviewed team membership and channel settings, created a Teams support channel, practised OneDrive file sharing and access management, and explored SharePoint sites, document libraries, and permissions.
+
+I also created five knowledge base articles, five sample support tickets, and a final troubleshooting workflow covering common collaboration support issues.
+
+This project helped me develop practical familiarity with Microsoft 365 collaboration administration, user support, permissions management, troubleshooting documentation, and first-line Service Desk workflows.
